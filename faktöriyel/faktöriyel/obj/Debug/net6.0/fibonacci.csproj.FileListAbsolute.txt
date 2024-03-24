@@ -1,0 +1,14 @@
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\bin\Debug\net6.0\fibonacci.exe
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\bin\Debug\net6.0\fibonacci.deps.json
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\bin\Debug\net6.0\fibonacci.runtimeconfig.json
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\bin\Debug\net6.0\fibonacci.dll
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\bin\Debug\net6.0\fibonacci.pdb
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\fibonacci.AssemblyInfo.cs
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\fibonacci.dll
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\refint\fibonacci.dll
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\fibonacci.pdb
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\fibonacci.genruntimeconfig.cache
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\ref\fibonacci.dll

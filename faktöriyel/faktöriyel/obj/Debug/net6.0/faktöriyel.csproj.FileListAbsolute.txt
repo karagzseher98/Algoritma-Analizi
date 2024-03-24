@@ -1,0 +1,14 @@
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\bin\Debug\net6.0\faktöriyel.exe
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\bin\Debug\net6.0\faktöriyel.deps.json
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\bin\Debug\net6.0\faktöriyel.runtimeconfig.json
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\bin\Debug\net6.0\faktöriyel.dll
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\bin\Debug\net6.0\faktöriyel.pdb
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\faktöriyel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\faktöriyel.AssemblyInfoInputs.cache
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\faktöriyel.AssemblyInfo.cs
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\faktöriyel.csproj.CoreCompileInputs.cache
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\faktöriyel.dll
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\refint\faktöriyel.dll
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\faktöriyel.pdb
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\faktöriyel.genruntimeconfig.cache
+C:\Users\Asuss\source\repos\faktöriyel\faktöriyel\obj\Debug\net6.0\ref\faktöriyel.dll
