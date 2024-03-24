@@ -1,0 +1,7 @@
+C:\Users\Asuss\source\repos\quıcksort\quıcksort\bin\Debug\quıcksort.exe.config
+C:\Users\Asuss\source\repos\quıcksort\quıcksort\bin\Debug\quıcksort.exe
+C:\Users\Asuss\source\repos\quıcksort\quıcksort\bin\Debug\quıcksort.pdb
+C:\Users\Asuss\source\repos\quıcksort\quıcksort\obj\Debug\quıcksort.csproj.AssemblyReference.cache
+C:\Users\Asuss\source\repos\quıcksort\quıcksort\obj\Debug\quıcksort.csproj.CoreCompileInputs.cache
+C:\Users\Asuss\source\repos\quıcksort\quıcksort\obj\Debug\quıcksort.exe
+C:\Users\Asuss\source\repos\quıcksort\quıcksort\obj\Debug\quıcksort.pdb
