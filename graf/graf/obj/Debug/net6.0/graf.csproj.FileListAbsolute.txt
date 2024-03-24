@@ -1,0 +1,14 @@
+C:\Users\Asuss\source\repos\graf\graf\bin\Debug\net6.0\graf.exe
+C:\Users\Asuss\source\repos\graf\graf\bin\Debug\net6.0\graf.deps.json
+C:\Users\Asuss\source\repos\graf\graf\bin\Debug\net6.0\graf.runtimeconfig.json
+C:\Users\Asuss\source\repos\graf\graf\bin\Debug\net6.0\graf.dll
+C:\Users\Asuss\source\repos\graf\graf\bin\Debug\net6.0\graf.pdb
+C:\Users\Asuss\source\repos\graf\graf\obj\Debug\net6.0\graf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asuss\source\repos\graf\graf\obj\Debug\net6.0\graf.AssemblyInfoInputs.cache
+C:\Users\Asuss\source\repos\graf\graf\obj\Debug\net6.0\graf.AssemblyInfo.cs
+C:\Users\Asuss\source\repos\graf\graf\obj\Debug\net6.0\graf.csproj.CoreCompileInputs.cache
+C:\Users\Asuss\source\repos\graf\graf\obj\Debug\net6.0\graf.dll
+C:\Users\Asuss\source\repos\graf\graf\obj\Debug\net6.0\refint\graf.dll
+C:\Users\Asuss\source\repos\graf\graf\obj\Debug\net6.0\graf.pdb
+C:\Users\Asuss\source\repos\graf\graf\obj\Debug\net6.0\graf.genruntimeconfig.cache
+C:\Users\Asuss\source\repos\graf\graf\obj\Debug\net6.0\ref\graf.dll
