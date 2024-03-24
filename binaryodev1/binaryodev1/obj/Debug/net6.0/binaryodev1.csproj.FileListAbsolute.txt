@@ -1,0 +1,14 @@
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\bin\Debug\net6.0\binaryodev1.exe
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\bin\Debug\net6.0\binaryodev1.deps.json
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\bin\Debug\net6.0\binaryodev1.runtimeconfig.json
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\bin\Debug\net6.0\binaryodev1.dll
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\bin\Debug\net6.0\binaryodev1.pdb
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\obj\Debug\net6.0\binaryodev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\obj\Debug\net6.0\binaryodev1.AssemblyInfoInputs.cache
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\obj\Debug\net6.0\binaryodev1.AssemblyInfo.cs
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\obj\Debug\net6.0\binaryodev1.csproj.CoreCompileInputs.cache
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\obj\Debug\net6.0\binaryodev1.dll
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\obj\Debug\net6.0\refint\binaryodev1.dll
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\obj\Debug\net6.0\binaryodev1.pdb
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\obj\Debug\net6.0\binaryodev1.genruntimeconfig.cache
+C:\Users\Asuss\source\repos\binaryodev1\binaryodev1\obj\Debug\net6.0\ref\binaryodev1.dll
