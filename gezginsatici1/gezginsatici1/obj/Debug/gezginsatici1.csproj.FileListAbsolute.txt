@@ -1,0 +1,7 @@
+C:\Users\Asuss\source\repos\gezginsatici1\gezginsatici1\bin\Debug\gezginsatici1.exe.config
+C:\Users\Asuss\source\repos\gezginsatici1\gezginsatici1\bin\Debug\gezginsatici1.exe
+C:\Users\Asuss\source\repos\gezginsatici1\gezginsatici1\bin\Debug\gezginsatici1.pdb
+C:\Users\Asuss\source\repos\gezginsatici1\gezginsatici1\obj\Debug\gezginsatici1.csproj.AssemblyReference.cache
+C:\Users\Asuss\source\repos\gezginsatici1\gezginsatici1\obj\Debug\gezginsatici1.csproj.CoreCompileInputs.cache
+C:\Users\Asuss\source\repos\gezginsatici1\gezginsatici1\obj\Debug\gezginsatici1.exe
+C:\Users\Asuss\source\repos\gezginsatici1\gezginsatici1\obj\Debug\gezginsatici1.pdb
