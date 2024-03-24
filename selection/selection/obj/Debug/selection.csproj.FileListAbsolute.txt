@@ -1,0 +1,7 @@
+C:\Users\Asuss\source\repos\selection\selection\bin\Debug\selection.exe.config
+C:\Users\Asuss\source\repos\selection\selection\bin\Debug\selection.exe
+C:\Users\Asuss\source\repos\selection\selection\bin\Debug\selection.pdb
+C:\Users\Asuss\source\repos\selection\selection\obj\Debug\selection.csproj.AssemblyReference.cache
+C:\Users\Asuss\source\repos\selection\selection\obj\Debug\selection.csproj.CoreCompileInputs.cache
+C:\Users\Asuss\source\repos\selection\selection\obj\Debug\selection.exe
+C:\Users\Asuss\source\repos\selection\selection\obj\Debug\selection.pdb
