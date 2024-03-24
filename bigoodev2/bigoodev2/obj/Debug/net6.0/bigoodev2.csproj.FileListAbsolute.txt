@@ -1,0 +1,14 @@
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\bin\Debug\net6.0\bigoodev2.exe
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\bin\Debug\net6.0\bigoodev2.deps.json
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\bin\Debug\net6.0\bigoodev2.runtimeconfig.json
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\bin\Debug\net6.0\bigoodev2.dll
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\bin\Debug\net6.0\bigoodev2.pdb
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\obj\Debug\net6.0\bigoodev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\obj\Debug\net6.0\bigoodev2.AssemblyInfoInputs.cache
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\obj\Debug\net6.0\bigoodev2.AssemblyInfo.cs
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\obj\Debug\net6.0\bigoodev2.csproj.CoreCompileInputs.cache
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\obj\Debug\net6.0\bigoodev2.dll
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\obj\Debug\net6.0\refint\bigoodev2.dll
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\obj\Debug\net6.0\bigoodev2.pdb
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\obj\Debug\net6.0\bigoodev2.genruntimeconfig.cache
+C:\Users\Asuss\source\repos\bigoodev2\bigoodev2\obj\Debug\net6.0\ref\bigoodev2.dll
