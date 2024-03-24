@@ -1,0 +1,14 @@
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\bin\Debug\net6.0\diziodev2.exe
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\bin\Debug\net6.0\diziodev2.deps.json
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\bin\Debug\net6.0\diziodev2.runtimeconfig.json
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\bin\Debug\net6.0\diziodev2.dll
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\bin\Debug\net6.0\diziodev2.pdb
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\obj\Debug\net6.0\diziodev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\obj\Debug\net6.0\diziodev2.AssemblyInfoInputs.cache
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\obj\Debug\net6.0\diziodev2.AssemblyInfo.cs
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\obj\Debug\net6.0\diziodev2.csproj.CoreCompileInputs.cache
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\obj\Debug\net6.0\diziodev2.dll
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\obj\Debug\net6.0\refint\diziodev2.dll
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\obj\Debug\net6.0\diziodev2.pdb
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\obj\Debug\net6.0\diziodev2.genruntimeconfig.cache
+C:\Users\Asuss\source\repos\diziodev2\diziodev2\obj\Debug\net6.0\ref\diziodev2.dll
