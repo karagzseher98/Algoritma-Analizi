@@ -1,0 +1,14 @@
+C:\Users\Asuss\source\repos\pirim\pirim\bin\Debug\net6.0\pirim.exe
+C:\Users\Asuss\source\repos\pirim\pirim\bin\Debug\net6.0\pirim.deps.json
+C:\Users\Asuss\source\repos\pirim\pirim\bin\Debug\net6.0\pirim.runtimeconfig.json
+C:\Users\Asuss\source\repos\pirim\pirim\bin\Debug\net6.0\pirim.dll
+C:\Users\Asuss\source\repos\pirim\pirim\bin\Debug\net6.0\pirim.pdb
+C:\Users\Asuss\source\repos\pirim\pirim\obj\Debug\net6.0\pirim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asuss\source\repos\pirim\pirim\obj\Debug\net6.0\pirim.AssemblyInfoInputs.cache
+C:\Users\Asuss\source\repos\pirim\pirim\obj\Debug\net6.0\pirim.AssemblyInfo.cs
+C:\Users\Asuss\source\repos\pirim\pirim\obj\Debug\net6.0\pirim.csproj.CoreCompileInputs.cache
+C:\Users\Asuss\source\repos\pirim\pirim\obj\Debug\net6.0\pirim.dll
+C:\Users\Asuss\source\repos\pirim\pirim\obj\Debug\net6.0\refint\pirim.dll
+C:\Users\Asuss\source\repos\pirim\pirim\obj\Debug\net6.0\pirim.pdb
+C:\Users\Asuss\source\repos\pirim\pirim\obj\Debug\net6.0\pirim.genruntimeconfig.cache
+C:\Users\Asuss\source\repos\pirim\pirim\obj\Debug\net6.0\ref\pirim.dll
