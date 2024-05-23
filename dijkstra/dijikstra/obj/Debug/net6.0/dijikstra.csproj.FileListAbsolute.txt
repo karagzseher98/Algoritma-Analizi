@@ -1,0 +1,14 @@
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\obj\Debug\net6.0\dijikstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\obj\Debug\net6.0\dijikstra.AssemblyInfoInputs.cache
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\obj\Debug\net6.0\dijikstra.AssemblyInfo.cs
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\obj\Debug\net6.0\dijikstra.csproj.CoreCompileInputs.cache
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\bin\Debug\net6.0\dijikstra.exe
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\bin\Debug\net6.0\dijikstra.deps.json
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\bin\Debug\net6.0\dijikstra.runtimeconfig.json
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\bin\Debug\net6.0\dijikstra.dll
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\bin\Debug\net6.0\dijikstra.pdb
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\obj\Debug\net6.0\dijikstra.dll
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\obj\Debug\net6.0\refint\dijikstra.dll
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\obj\Debug\net6.0\dijikstra.pdb
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\obj\Debug\net6.0\dijikstra.genruntimeconfig.cache
+C:\Users\Asuss\source\repos\dijikstra\dijikstra\obj\Debug\net6.0\ref\dijikstra.dll
