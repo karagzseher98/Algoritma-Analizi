@@ -1,0 +1,14 @@
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\bin\Debug\net6.0\kuruskal.exe
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\bin\Debug\net6.0\kuruskal.deps.json
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\bin\Debug\net6.0\kuruskal.runtimeconfig.json
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\bin\Debug\net6.0\kuruskal.dll
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\bin\Debug\net6.0\kuruskal.pdb
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\obj\Debug\net6.0\kuruskal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\obj\Debug\net6.0\kuruskal.AssemblyInfoInputs.cache
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\obj\Debug\net6.0\kuruskal.AssemblyInfo.cs
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\obj\Debug\net6.0\kuruskal.csproj.CoreCompileInputs.cache
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\obj\Debug\net6.0\kuruskal.dll
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\obj\Debug\net6.0\refint\kuruskal.dll
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\obj\Debug\net6.0\kuruskal.pdb
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\obj\Debug\net6.0\kuruskal.genruntimeconfig.cache
+C:\Users\Asuss\source\repos\kuruskal\kuruskal\obj\Debug\net6.0\ref\kuruskal.dll
