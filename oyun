@@ -1,0 +1,292 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class BackgroundMusic : MonoBehaviour
+{
+    private static BackgroundMusic backgdMusic;
+
+    void Awake()
+    {
+        if(backgdMusic == null)
+        {
+            backgdMusic = this;
+            DontDestroyOnLoad(backgdMusic);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+}
+
+public class BackMenu : MonoBehaviour
+{
+    public void BackGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+    }
+}
+
+public class CameraMovement : MonoBehaviour
+{
+    public float cameraSpeed;
+    void Update()
+    {
+        transform.position += new Vector3(cameraSpeed * Time.deltaTime, 0, 0);
+    }
+}
+
+public class GameOver : MonoBehaviour
+{
+    public GameObject gameOverPanel; 
+    public bool isGameOver = false;
+
+    void Update()
+    {
+        if(GameObject.FindGameObjectWithTag("Player") == null)
+        {
+            gameOverPanel.SetActive(true);
+            isGameOver = true;
+        }
+    }
+
+    public void Restart()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+}
+
+public class HealthManager : MonoBehaviour
+{
+   public static int health = 3;
+   public Image[] hearts;
+   public Sprite fullHeart;
+   public Sprite emptyHeart;
+
+   void Awake() 
+   {
+    health = 3;
+   }
+
+    void Update()
+    {
+        foreach (Image img in hearts)
+        {
+            img.sprite = emptyHeart;
+        }
+        for (int i = 0; i < health; i++)
+        {
+            hearts[i].sprite = fullHeart;
+        }
+    }
+}
+
+public class LoopingBackground : MonoBehaviour
+{
+    public float backgroundSpeed;
+    public Renderer backgroundRenderer;
+
+    void Update()
+    {
+        backgroundRenderer.material.mainTextureOffset += new Vector2(backgroundSpeed * Time.deltaTime, 0f);
+        if(backgroundSpeed < 2)
+        {
+            backgroundSpeed += 0.1f * Time.deltaTime;
+        }
+    }
+}
+
+public class MainMenu : MonoBehaviour
+{
+    public void PlayGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+}
+
+public class Obstacle : MonoBehaviour
+{
+    private GameObject player;
+
+    void Start()
+    {
+        player = GameObject.FindGameObjectWithTag("Player");
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "Border")
+        {
+            Destroy(this.gameObject);
+        }
+        else if(collision.tag == "Player")
+        {
+             if(HealthManager.health <= 0)
+            {
+                Destroy(player.gameObject);
+            }
+            else
+            {
+                HealthManager.health--;
+            }
+        }
+    }
+}
+
+public class PauseMenu : MonoBehaviour
+{
+    [SerializeField] GameObject pauseMenu;
+
+    public void Pause()
+    {
+        pauseMenu.SetActive(true);
+        Time.timeScale = 0f;
+    }
+
+    public void Resume()
+    {
+        pauseMenu.SetActive(false);
+        Time.timeScale = 1f;
+    }
+
+    public void Home(int sceneID)
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene(sceneID);
+    }
+}
+
+public class Player : MonoBehaviour
+{
+    public float playerSpeed;
+    private Rigidbody2D rb;
+    private Vector2 playerDirection;
+
+    void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        StartCoroutine("IncreaseGameSpeed");
+    }
+
+    void Update()
+    {
+        float directionY = Input.GetAxisRaw("Vertical");
+        playerDirection = new Vector2(0, directionY).normalized;
+    }
+
+    void FixedUpdate()
+    {
+        rb.velocity = new Vector2(0, playerDirection.y * playerSpeed);
+    }
+
+    IEnumerator IncreaseGameSpeed()
+    {
+        while (true)
+        {
+            yield return new WaitForSeconds(10);
+
+            if(playerSpeed < 8)
+            {
+                playerSpeed += 0.9f;
+            }
+
+            GameObject.Find("Spawn Point").GetComponent<SpawnObstacles>().timeBetweenSpawn -= 0.1f;
+        }
+    }
+}
+
+public class ScoreManager : MonoBehaviour
+{
+    public TextMeshProUGUI scoreText;
+    public TextMeshProUGUI highScoreText;
+    private float score;
+
+    void Update()
+    {
+        if(GameObject.FindGameObjectWithTag("Player") != null)
+        {
+            score += 1 * Time.deltaTime;
+            scoreText.text = ((int)score).ToString();
+        }
+
+        if(score > PlayerPrefs.GetFloat("HighScore", 0))
+        {
+            PlayerPrefs.SetFloat("HighScore", ((int)score));
+        }
+    }
+
+    void Start()
+    {
+        updatehighscore();
+    }
+
+    void updatehighscore()
+    {
+        highScoreText.text = $"BEST : {PlayerPrefs.GetFloat("HighScore", 0)}";
+    }
+}
+
+public class SoundManager : MonoBehaviour
+{
+    [SerializeField] Slider volumeSlider;
+
+    void Start() 
+    {
+        if(PlayerPrefs.HasKey("musicVolume"))
+        {
+            PlayerPrefs.SetFloat("musicVolume", 1);
+            Load();
+        }
+        else
+        {
+            Load();
+        }
+    }
+
+    public void ChangeVolume()
+    {
+        AudioListener.volume = volumeSlider.value;
+        Save();
+    }
+
+    private void Load()
+    {
+        volumeSlider.value = PlayerPrefs.GetFloat("musicVolume");
+    }
+
+    private void Save()
+    {
+        PlayerPrefs.SetFloat("musicVolume", volumeSlider.value);
+    }
+}
+
+public class SpawnObstacles : MonoBehaviour
+{
+    public GameObject obstacle;
+    public float maxX;
+    public float maxY;
+    public float minX;
+    public float minY;
+    [HideInInspector]
+    public float timeBetweenSpawn;
+    private float spawnTime;
+
+    void Update()
+    {
+        if (Time.time > spawnTime)
+        {
+            Spawn();
+            spawnTime = Time.time + timeBetweenSpawn;
+        }
+    }
+
+    void Spawn()
+    {
+        float randomX = Random.Range(minX, maxX);
+        float randomY = Random.Range(minY, maxY);
+
+        Instantiate(obstacle, transform.position + new Vector3(randomX, randomY, 0), transform.rotation);
+    }
+}
